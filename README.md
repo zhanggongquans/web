@@ -11,4 +11,4 @@
 8、支持结果导出
 ```
 ## 效果
-![image]https://github.com/zhanggongquans/web/blob/main/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17724405332925.png
+![image](https://github.com/zhanggongquans/web/blob/main/%E4%BC%81%E4%B8%9A%E5%BE%AE%E4%BF%A1%E6%88%AA%E5%9B%BE_17724405332925.png)
